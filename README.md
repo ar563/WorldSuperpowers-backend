@@ -1,3 +1,8 @@
+# WorldSuperpowers
+
+This is backend code of geopolitical game WorldSuperpowers.
+Take part in the creation of a powerful geopolitical empire. Trade, fight, work, vote and play.
+
 ### Installation
 1. customize content inside private folder, sendMail and transporter in utils folder and ecosystem.config.js in main folder (pm2 configuration)
 2. you should have postgresql installed and started
