@@ -1,0 +1,61 @@
+ 
+Privacy Policy
+
+Effective Date: 30.06.2023
+
+This Privacy Policy explains how we collect, use, and protect the personal information of users of our game WorldSuperpowers ("the Game"). We are committed to protecting your privacy and complying with applicable data protection laws, including the General Data Protection Regulation (GDPR).
+
+1. Information We Collect
+
+1.1 Personal Information:
+We may collect the following personal information when you use our Game:
+- IP addresses
+- Email addresses
+- Usernames
+
+2. Use of Personal Information
+
+2.1 Legal Basis:
+We collect and process your personal information based on one or more of the following legal grounds:
+- The processing is necessary for the performance of a contract with you or for the implementation of pre-contractual measures.
+- The processing is necessary for compliance with a legal obligation to which we are subject.
+- You have given us your consent to process your personal information for a specific purpose.
+- The processing is necessary for our legitimate interests, such as improving the Game, ensuring its security, and providing customer support.
+
+2.2 Purpose of Processing:
+We use the collected personal information for the following purposes:
+- Providing and improving the Game's functionality and user experience.
+- Authenticating and identifying users.
+- Responding to user inquiries and providing customer support.
+- Ensuring the security and integrity of the Game.
+- Complying with legal obligations.
+
+3. Data Retention
+
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. When we no longer need the information, we will securely delete or destroy it.
+
+4. Data Sharing and Transfers
+
+We may share your personal information with third parties in the following situations:
+- When required by law, regulation, or legal process.
+- With service providers who assist us in operating the Game and providing related services, subject to appropriate data protection agreements.
+- With your consent or at your direction.
+
+If we transfer your personal information to a country outside the European Economic Area (EEA), we will ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws.
+
+5. Your Rights
+
+As a user, you have certain rights regarding your personal information under applicable data protection laws, which may include the right to access, rectify, restrict processing, and delete your data. Please contact us using the information provided below to exercise your rights.
+
+6. Security
+
+We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
+
+7. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or the processing of your personal information, please contact us at admin@worldsuperpowers.cc.
+
+8. Updates to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the revised version on our website or through other appropriate means.
+
