@@ -276,6 +276,12 @@ setInterval(async () => {
       credentials: true,
     },
   });
+  /*
+  you can set up port you want to socket.io listen on
+  or random port will be choosen
+  TODO: fix issue - setting up port cause unit tests
+  fail and warn that port is in use
+  */
   const port = 44225;
   server.listen(port, () => {
     logger.info(`listening on *:${port}`);
